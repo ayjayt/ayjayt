@@ -1,15 +1,15 @@
-# Andrew Pikul 
+# Hi! I'm Andrew 
 
-:wave: Working on geological analysis software [🐰 GeoPozo](https://www.github.com/geopozo).
+👋 Working on geological analysis software [🐰 GeoPozo](https://www.github.com/geopozo)
 
-Building a software organization in Colombia.
+🏗️ Building a software organization in Colombia
 
-Writing.
+✍️ Writing
 
-## ¡Hola! Soy Andrew.
+# ¡Hola! Soy Andrew
 
-:wave: Yo hago software para analisis geologico: [🐰 GeoPozo](https://www.github.com/geopozo).
+👋 Yo hago software para analisis geologico: [🐰 GeoPozo](https://www.github.com/geopozo)
 
-Actualmente construyendo una organización colombiana.
+🏗️ Actualmente construyendo una organización colombiana
 
-Escribo.
+✍️ Escribo
